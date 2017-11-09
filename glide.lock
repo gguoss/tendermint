@@ -1,5 +1,5 @@
-hash: 0f9ba99fd411afaaf90993037b0067c5f9f873554f407a6ae9afa0e2548343c5
-updated: 2017-10-27T22:34:38.187149434-04:00
+hash: 63453097445e88b8ee3e24464001e36026323f5ab738078b8afebb03d82dabe1
+updated: 2017-11-09T22:30:06.086030785Z
 imports:
 - name: github.com/btcsuite/btcd
   version: 8cea3866d0f7fb12d567a20744942c0d078c7d15
@@ -98,7 +98,7 @@ imports:
   - leveldb/table
   - leveldb/util
 - name: github.com/tendermint/abci
-  version: dc33aad9b4e514a2322725ef68f27f72d955c537
+  version: 6b47155e08732f46dafdcef185d23f0ff9ff24a5
   subpackages:
   - client
   - example/counter
@@ -130,7 +130,6 @@ imports:
   - clist
   - common
   - db
-  - events
   - flowrate
   - log
   - merkle
